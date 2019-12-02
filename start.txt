@@ -1,0 +1,1 @@
+Test GIT quick start demo. GIT world is indeed very interesting git status
